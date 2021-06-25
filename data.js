@@ -17,5 +17,14 @@ window.audios = [
     artist: "Diego Fernandes",
     cover: "junior-pleno-ou-senior-qual-a-diferenca.jpg",
     file: "junior-pleno-ou-senior-qual-a-diferenca.mp3"
-  }
+  },
+  {
+    title: "minha musica",
+    artist: "Jair Pereira",
+    cover: "desenho-sem-titulo.jpg",
+    file: "cancao-pra-voce.mp3",
+    
+
+
+  },
 ];
